@@ -8,7 +8,7 @@ Portability: The project is powered by a power bank, making it easy to use witho
 Cardboard Enclosure: The components are housed in a DIY cardboard enclosure for protection and aesthetics.
 
 Code Overview
-Here is a brief overview of the Arduino code used in this project:
+Here is a brief overview of the Arduino code used in this project: 
 
 #include <IRremote.h>
 #include <Stepper.h>
